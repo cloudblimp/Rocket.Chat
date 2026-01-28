@@ -1,0 +1,137 @@
+Hook Name,Type,File Path,Line Number,Usage Context
+useState,Built-in React,"apps/meteor/client/sidebar/header/MatrixFederationSearch/MatrixFederationManageServerModal.tsx",47,State management for serverName
+useState,Built-in React,"apps/meteor/client/sidebar/header/MatrixFederationSearch/MatrixFederationManageServerModal.tsx",48,State management for errorKey
+useState,Built-in React,"apps/meteor/client/sidebar/header/MatrixFederationSearch/MatrixFederationSearchModalContent.tsx",24,State management for serverName
+useState,Built-in React,"apps/meteor/client/sidebar/header/MatrixFederationSearch/MatrixFederationSearchModalContent.tsx",29,State management for roomName
+useState,Built-in React,"apps/meteor/client/sidebar/RoomList/SidebarItem.tsx",23,State management for menuVisibility
+useState,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/EditableLabel/EditableLabel.tsx",7,State management for hover
+useState,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/EditableLabel/EditableLabel.tsx",8,State management for inputRef
+useState,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/Thumbnail.tsx",16,State management for scale
+useState,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/EditMenu/EditMenu.tsx",25,State management for isOpen
+useState,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/EditMenu/EditMenu.tsx",26,State management for buttonRef
+useState,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/EditMenu/EditMenu.tsx",27,State management for containerRef
+useState,Built-in React,"apps/uikit-playground/src/Components/navMenu/NavMenu.tsx",10,State management for isOpen
+useState,Built-in React,"apps/uikit-playground/src/Components/HomeContainer/ProjectsList/ProjectsThumbnail.tsx",32,State management for name
+useState,Built-in React,"apps/uikit-playground/src/Components/PtototypeContainer/PrototypeContainer.tsx",11,State management for currentScreenID
+useState,Built-in React,"apps/uikit-playground/src/Components/PrototypeRender/PrototypeRender.tsx",26,State management for glowActive
+useState,Built-in React,"apps/uikit-playground/src/Components/Preview/Display/Surface/Surface.tsx",24,State management for uniqueBlocks
+useState,Built-in React,"apps/uikit-playground/src/Components/CreateNewScreen/ScreenThumbnail.tsx",24,State management for name
+useState,Built-in React,"apps/uikit-playground/src/Components/FlowContainer/FlowContainer.tsx",40,State management for rfInstance
+useState,Built-in React,"apps/uikit-playground/src/Components/DropDown/Items.tsx",12,State management for isOpen
+useState,Built-in React,"apps/uikit-playground/src/Components/DropDown/Items.tsx",13,State management for hover
+useState,Built-in React,"packages/mock-providers/src/MockedServerContext.tsx",28,State management for queryClient
+useEffect,Built-in React,"apps/meteor/client/views/account/AccountRouter.tsx",16,Side effect handling
+useEffect,Built-in React,"apps/meteor/client/sidebar/hooks/useShortcutOpenMenu.ts",7,Side effect handling
+useEffect,Built-in React,"apps/meteor/client/sidebar/hooks/usePreventDefault.ts",8,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/hooks/useNodesAndEdges.ts",20,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/hooks/useNodesAndEdges.ts",50,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/hooks/useCodeMirror.ts",64,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/hooks/useFormatCodeMirrorValue.ts",19,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/hooks/useHorizontalScroll.ts",6,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/Routes/ProjectSpecificLayout.tsx",16,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/navMenu/NavMenu.tsx",24,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/Thumbnail.tsx",18,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/Preview/Preview.tsx",16,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/Preview/SplitPlaneContainer/SplitPlaneContainer.tsx",22,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/Preview/Display/Surface/Surface.tsx",41,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/Preview/Display/Surface/Surface.tsx",52,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/ComponentSideBar/SideBar.tsx",13,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/CodeEditor/BlockEditor.tsx",47,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/CodeEditor/BlockEditor.tsx",57,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/CodeEditor/index.tsx",27,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/CodeEditor/index.tsx",46,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/CodeEditor/index.tsx",57,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/CodeEditor/PreviewEditor.tsx",22,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/Components/PersistStore/PersistStore.tsx",18,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/App.tsx",28,Side effect handling
+useEffect,Built-in React,"apps/uikit-playground/src/App.tsx",32,Side effect handling
+useRef,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/EditableLabel/EditableLabel.tsx",8,DOM ref for input element
+useRef,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/Thumbnail.tsx",14,DOM ref for parent element
+useRef,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/Thumbnail.tsx",15,DOM ref for element
+useRef,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/EditMenu/EditMenu.tsx",26,DOM ref for button
+useRef,Built-in React,"apps/uikit-playground/src/Components/ScreenThumbnail/EditMenu/EditMenu.tsx",27,DOM ref for container
+useRef,Built-in React,"apps/uikit-playground/src/Components/PrototypeRender/PrototypeRender.tsx",24,DOM ref for timer
+useRef,Built-in React,"apps/uikit-playground/src/Components/FlowContainer/FlowContainer.tsx",41,Mutable ref for edge update tracking
+useRef,Built-in React,"apps/uikit-playground/src/hooks/useCodeMirror.ts",13,DOM ref for editor view
+useRef,Built-in React,"apps/uikit-playground/src/hooks/useHorizontalScroll.ts",4,DOM ref for scroll element
+useRef,Built-in React,"apps/uikit-playground/src/Components/CreateNewScreen/CreateNewScreenContainer.tsx",19,Generic ref
+useContext,Built-in React,"apps/meteor/client/sidebar/RoomList/RoomListRow.tsx",31,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Pages/Playground.tsx",15,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/Routes/ProjectSpecificLayout.tsx",11,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/navMenu/NavMenu.tsx",15,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/navMenu/Menu/index.tsx",19,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/Preview/Editor/EditorPanel.tsx",40,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/Preview/Wrapper.tsx",13,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/Preview/NavPanel/NavPanel.tsx",18,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/Preview/Preview.tsx",14,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/SurfaceSelect/SurfaceSelect.tsx",12,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/Templates/Templates.tsx",14,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/Templates/Container/Payload.tsx",24,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/HomeContainer/HomeContainer.tsx",9,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/HomeContainer/ProjectsList/ProjectsList.tsx",10,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/HomeContainer/ProjectsList/ProjectsThumbnail.tsx",34,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/PtototypeContainer/PrototypeContainer.tsx",9,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/ComponentSideBar/SideBar.tsx",11,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/ComponentSideBar/SliderBtn.tsx",12,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/Preview/Display/Surface/Surface.tsx",23,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/Preview/Display/UiKitElementWrapper/DeleteElementBtn.tsx",8,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/CodeEditor/BlockEditor.tsx",21,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/CodeEditor/index.tsx",20,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/CodeEditor/PreviewEditor.tsx",16,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/FlowContainer/FlowContainer.tsx",25,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/FlowContainer/UIKitWrapper/UIKitWrapper.tsx",14,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/NavBar/BurgerIcon/BurgerIcon.tsx",13,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/NavBar/RightNavBtn.tsx",9,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/NavBar/NavBar.tsx",24,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/CreateNewScreen/CreateNewScreenContainer.tsx",18,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/Components/DropDown/Items.tsx",14,Context consumption
+useContext,Built-in React,"apps/uikit-playground/src/App.tsx",21,Context consumption
+useMemo,Built-in React,"apps/meteor/client/sidebar/header/MatrixFederationSearch/MatrixFederationSearchModalContent.tsx",37,Memoized computation for serverOptions
+useMemo,Built-in React,"apps/meteor/client/sidebar/RoomList/RoomListRow.tsx",31,Memoized computation for videoConfActions
+useMemo,Built-in React,"apps/meteor/client/sidebar/hooks/useAvatarTemplate.tsx",16,Memoized computation for avatar template
+useMemo,Built-in React,"apps/meteor/client/sidebar/hooks/useRoomList.ts",58,Memoized computation for room list
+useMemo,Built-in React,"apps/uikit-playground/src/hooks/useAuth.tsx",29,Memoized computation for auth context value
+useMemo,Built-in React,"apps/uikit-playground/src/Components/Templates/Container/Payload.tsx",25,Memoized computation for blocksWithUniqueIds
+useMemo,Built-in React,"apps/uikit-playground/src/Components/PtototypeContainer/PrototypeContainer.tsx",15,Memoized computation for activeActions
+useMemo,Built-in React,"apps/uikit-playground/src/Components/FlowContainer/FlowContainer.tsx",31,Memoized computation for nodeTypes
+useCallback,Built-in React,"apps/meteor/client/sidebar/header/MatrixFederationSearch/MatrixFederationSearchModalContent.tsx",39,Memoized callback for manageServers
+useCallback,Built-in React,"apps/meteor/client/sidebar/hooks/useCollapsedGroups.ts",8,Memoized callback for handleClick
+useCallback,Built-in React,"apps/meteor/client/sidebar/hooks/useCollapsedGroups.ts",19,Memoized callback for handleKeyDown
+useCallback,Built-in React,"apps/uikit-playground/src/hooks/useCodeMirror.ts",21,Memoized callback for editor
+useCallback,Built-in React,"apps/uikit-playground/src/Components/PersistStore/PersistStore.tsx",14,Memoized callback for handleBeforeUnload
+useCallback,Built-in React,"apps/uikit-playground/src/Components/FlowContainer/FlowContainer.tsx",43,Memoized callback for onConnect
+useCallback,Built-in React,"apps/uikit-playground/src/Components/FlowContainer/FlowContainer.tsx",57,Memoized callback for onEdgeUpdateStart
+useCallback,Built-in React,"apps/uikit-playground/src/Components/FlowContainer/FlowContainer.tsx",61,Memoized callback for onEdgeUpdate
+useCallback,Built-in React,"apps/uikit-playground/src/Components/FlowContainer/FlowContainer.tsx",69,Memoized callback for onEdgeUpdateEnd
+useReducer,Built-in React,"apps/uikit-playground/src/Context/createCtx.tsx",16,State reduction with dispatch
+useRouter,Custom (Rocket.Chat),"apps/meteor/client/views/account/AccountRouter.tsx",14,Navigation routing
+useNavigate,React Router,"apps/uikit-playground/src/Pages/SignInSignUp.tsx",26,React Router navigation
+useNavigate,React Router,"apps/uikit-playground/src/Components/Routes/ProjectSpecificLayout.tsx",13,React Router navigation
+useNavigate,React Router,"apps/uikit-playground/src/hooks/useAuth.tsx",17,React Router navigation
+useNavigate,React Router,"apps/uikit-playground/src/Components/HomeContainer/ProjectsList/ProjectsThumbnail.tsx",33,React Router navigation
+useOutlet,React Router,"apps/uikit-playground/src/Components/Routes/ProtectedLayout.tsx",8,React Router outlet rendering
+useOutlet,React Router,"apps/uikit-playground/src/Components/Routes/HomeLayout.tsx",8,React Router outlet rendering
+useOutlet,React Router,"apps/uikit-playground/src/Components/Routes/ProjectSpecificLayout.tsx",14,React Router outlet rendering
+useParams,React Router,"apps/uikit-playground/src/Components/Routes/ProjectSpecificLayout.tsx",12,React Router route parameters
+useNodesState,Reactflow,"apps/uikit-playground/src/hooks/useNodesAndEdges.ts",11,Flow graph node state management
+useEdgesState,Reactflow,"apps/uikit-playground/src/hooks/useNodesAndEdges.ts",12,Flow graph edge state management
+useReactFlow,Reactflow,"apps/uikit-playground/src/Components/FlowContainer/FlowContainer.tsx",29,Reactflow instance control
+useLocalStorage,Fuselage Hooks,"apps/uikit-playground/src/hooks/useAuth.tsx",16,Local storage state management
+useOutsideClick,Fuselage Hooks,"apps/uikit-playground/src/Components/ScreenThumbnail/EditMenu/EditMenu.tsx",28,Outside click detection
+useResizeObserver,Fuselage Hooks,"apps/uikit-playground/src/Components/Preview/Wrapper.tsx",10,Resize observer for dimensions
+useToastBarDispatch,Fuselage Toast Bar,"apps/uikit-playground/src/Components/navMenu/Menu/index.tsx",21,Toast notification dispatch
+useToastBarDispatch,Fuselage Toast Bar,"apps/uikit-playground/src/Components/HomeContainer/ProjectsList/ProjectsThumbnail.tsx",35,Toast notification dispatch
+useAuth,Custom Hook,"apps/uikit-playground/src/hooks/useAuth.tsx",42,Project authentication context hook
+useAuth,Custom Hook,"apps/uikit-playground/src/Components/Routes/ProtectedLayout.tsx",7,Project authentication context hook
+useAuth,Custom Hook,"apps/uikit-playground/src/Components/Routes/HomeLayout.tsx",7,Project authentication context hook
+useNodesAndEdges,Custom Hook,"apps/uikit-playground/src/Components/FlowContainer/FlowContainer.tsx",28,Flow nodes and edges management
+useCodeMirror,Custom Hook,"apps/uikit-playground/src/hooks/useCodeMirror.ts",12,CodeMirror editor initialization
+useFormatCodeMirrorValue,Custom Hook,"apps/uikit-playground/src/hooks/useFormatCodeMirrorValue.ts",12,CodeMirror value formatting
+useHorizontalScroll,Custom Hook,"apps/uikit-playground/src/hooks/useHorizontalScroll.ts",3,Horizontal scroll handling
+useShortcutOpenMenu,Custom Hook,"apps/meteor/client/sidebar/hooks/useShortcutOpenMenu.ts",1,Keyboard shortcut menu opening
+usePreventDefault,Custom Hook,"apps/meteor/client/sidebar/hooks/usePreventDefault.ts",1,Prevent default event behavior
+useAvatarTemplate,Custom Hook,"apps/meteor/client/sidebar/hooks/useAvatarTemplate.tsx",1,Avatar template generation
+useCollapsedGroups,Custom Hook,"apps/meteor/client/sidebar/hooks/useCollapsedGroups.ts",1,Collapsed groups state management
+useRoomList,Custom Hook,"apps/meteor/client/sidebar/hooks/useRoomList.ts",1,Room list filtering and sorting
+useSidebarListNavigation,Custom Hook,"apps/meteor/client/sidebar/RoomList/useSidebarListNavigation.ts",1,Sidebar navigation handling
+useTemplateByViewMode,Custom Hook,"apps/meteor/client/sidebar/hooks/useTemplateByViewMode.ts",1,Template selection by view mode
